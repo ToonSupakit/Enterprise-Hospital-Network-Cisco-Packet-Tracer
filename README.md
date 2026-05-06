@@ -161,6 +161,3 @@ VPN Tunnel: HQ-Router (192.168.102.89) ↔ BR-Router (192.168.102.90)
 
 ---
 
-## 👤 Author
-
-Built as a hands-on network engineering project to demonstrate enterprise-level Cisco configuration skills.
