@@ -16,8 +16,7 @@ All configurations are done through Cisco IOS CLI, covering Layer 2 through Laye
 ---
 
 ## 🗺️ Network Topology
-
-![Network Topology](topo.png)
+<img width="2784" height="1803" alt="topology" src="https://github.com/user-attachments/assets/45eabe38-1c0d-4712-a3a3-b80d4ed2167b" />
 
 ---
 
